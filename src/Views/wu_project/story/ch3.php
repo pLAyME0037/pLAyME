@@ -1,0 +1,47 @@
+<?php $title = 'Chapter 3: From Paper to Ink'; ?>
+
+<script src="https://kit.fontawesome.com/8243545f19.js" crossorigin="anonymous"></script>
+<style>
+    button {
+        background-color: skyblue;
+        width: 33%;
+        box-shadow: 5px 5px 3px rgb(2, 78, 104);
+    }
+    button:hover {
+        background-color: azure;
+    }
+    p {
+        text-align: justify;
+    }
+    h2 {
+        text-align: center;
+    }
+</style>
+
+<h2>Chapter 3: From Paper to Ink</h2>
+
+<p>
+    As they continued their quest for Oliver's lost collection of books, the
+    pencil faced its greatest challenge yet. They reached a library where
+    every book had been meticulously cataloged by librarians over decades. The
+    pen knew it could not simply browse through shelves; each book required
+    careful examination. The librarian, noticing Mr. Winters' determination
+    and passion, offered to assist him further. She explained that many of the
+    books were from an era long past when technology hadn't yet caught up with
+    modern methods of reading. Each page was filled with old handwriting and
+    ink, giving a glimpse into how people wrote before they could afford
+    typewriters or computers. The pencil listened intently as she shared these
+    stories, finding them both fascinating and humbling. As the librarian
+    explained, each character represented something different in their time: -
+    A student who couldn't afford schoolbooks but was determined to learn - A
+    writer whose work wasn't valued due to its humble origins - A doctor
+    working with outdated medical practices The pencil's presence gave these
+    stories a new life and context they hadn't been able to find before. It
+    was clear that no matter what era or technology existed, there were always
+    those who sought knowledge.
+</p>
+<hr align="center" size="3" color="red" width="90%" />
+<br />
+<a href="/wu_project/story/ch2"><button type="button">Previous Chapter</button></a>
+<a href="/"><button type="button"><i class="fa-solid fa-house"></i></button></a>
+<a href="/wu_project/story/ch4"><button type="button">Next Chapter</button></a>

@@ -1,0 +1,43 @@
+<?php $title = 'Chapter 4: From Ink to Paper'; ?>
+
+<script src="https://kit.fontawesome.com/8243545f19.js" crossorigin="anonymous"></script>
+<style>
+    button {
+        background-color: skyblue;
+        width: 33%;
+        box-shadow: 5px 5px 3px rgb(2, 78, 104);
+    }
+    button:hover {
+        background-color: azure;
+    }
+    p {
+        text-align: justify;
+    }
+    h2 {
+        text-align: center;
+    }
+</style>
+
+<h2>Chapter 4: From Ink to Paper</h2>
+
+<p>
+    Oliver finally found the collection of books he was looking for, but it
+    wasn't as simple as expected. The librarian had discovered a hidden room
+    filled with old manuscripts written by anonymous authors and artists
+    themselves—individuals whose stories didn't make it into history textbooks
+    or novels. The pen listened intently as Oliver shared these tales. These
+    were people who wrote the world's greatest poetry, paintings, and
+    literature without seeking fame or recognition, simply because they loved
+    what they did. The pencil recognized that this was the true essence of
+    creativity, not just being a tool for writing but an expression of one's
+    soul. Through these encounters, Mr. Winters realized that the pen wasn't
+    just about the act of writing itself; it was also about sharing stories
+    and experiences with others who needed them. It became clear to him that
+    his journey as the pencil would always be intertwined with finding people
+    like Oliver who were willing to learn from history's treasures.
+</p>
+<hr align="center" size="3" color="red" width="90%" />
+<br />
+<a href="/wu_project/story/ch3"><button type="button">Previous Chapter</button></a>
+<a href="/"><button type="button"><i class="fa-solid fa-house"></i></button></a>
+<a href="/wu_project/story/ch5"><button type="button">Next Chapter</button></a>

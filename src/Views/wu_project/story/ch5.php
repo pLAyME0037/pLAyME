@@ -1,0 +1,56 @@
+<?php $title = 'Chapter 5: From Paper to Ink'; ?>
+
+<script src="https://kit.fontawesome.com/8243545f19.js" crossorigin="anonymous"></script>
+<style>
+    button {
+        background-color: skyblue;
+        width: 33%;
+        box-shadow: 5px 5px 3px rgb(2, 78, 104);
+    }
+    button:hover {
+        background-color: azure;
+    }
+    p {
+        text-align: justify;
+    }
+    h2 {
+        text-align: center;
+    }
+</style>
+
+<h2>Chapter 5: From Paper to Ink</h2>
+
+<p>
+    Oliver finally had enough books for his collection, but they weren't
+    finished yet. There was still one more story he wanted to tell and share.
+    He suggested that Mr. Winters join him on a journey across the Atlantic,
+    where Oliver planned to meet with famous writers and publishers in an
+    attempt to publish "The Chronicles of Pencil." Mr. Winters agreed
+    immediately. The pen knew it would be a thrilling adventure but also an
+    opportunity to see how people lived back then from their own experiences
+    instead of just what was written down. They packed up the books, boarded a
+    ship, and set sail across the ocean. Oliver brought along maps,
+    manuscripts, and even some old letters he had never seen before. They
+    arrived in London, where they met Mr. Darcy and Jane Austen again. This
+    time, it wasn't just about sharing stories; it was about creating new
+    chapters that hadn’t been written yet. They sat down to write together on
+    a blank piece of paper as the ship docked at Chatham Dockyard. The pen
+    listened intently while Mr. Winters typed out the dialogue and details
+    from Jane Austen's novels. Oliver added his own perspective, capturing how
+    these characters lived their lives through his writings. The moment they
+    finished, there was an immediate change in the atmosphere. Instead of just
+    discussing books, people began to see them as friends who had been reading
+    for years. The pencil listened with wonder as everyone started asking
+    questions about what it felt like to write without fear of judgment or
+    rejection. They discovered that the pen could help them understand why
+    writers took risks and tried new things. The story was born from these
+    interactions, evolving into a novel that combined Mr. Winters' experiences
+    with Oliver’s tales of history and creativity. The book became an instant
+    bestseller, earning praise not just for its content but also for the
+    unique writing style it introduced to contemporary fiction.
+</p>
+<hr align="center" size="3" color="red" width="90%" />
+<br />
+<a href="/wu_project/story/ch4"><button type="button">Previous Chapter</button></a>
+<a href="/"><button type="button"><i class="fa-solid fa-house"></i></button></a>
+<a href="/wu_project/story/ch6"><button type="button">Next Chapter</button></a>

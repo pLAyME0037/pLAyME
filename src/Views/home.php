@@ -1,0 +1,2 @@
+<h1><?= $title ?? 'Home Page' ?></h1>
+<p><?= $message ?? 'Welcome!' ?></p>
